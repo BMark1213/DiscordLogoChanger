@@ -1,0 +1,12 @@
+/**
+ * @name Discord Logo Changer
+ * @author BMark1213#3709
+ * @description Changes the discord logo in the top left to whatever you want
+ * @version 1
+ */
+
+  .homeIcon-FuNwkv{
+    background-image: url("https://i5.walmartimages.com/asr/681eab4d-15fb-44c9-8065-d517e6272b59.335f35b0861c2a5555c8fe0a1829cce9.jpeg");
+    background-size: cover;
+    background-position: center;
+}
